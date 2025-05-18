@@ -1,0 +1,3536 @@
+[
+    {
+        "id": 1,
+        "eventType": "story",
+        "color": "pure",
+        "characters": [
+            5,
+            11,
+            20
+        ]
+    },
+    {
+        "id": 2,
+        "eventType": "story",
+        "color": "cool",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 3,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 4,
+        "eventType": "story",
+        "color": "powerful",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 5,
+        "eventType": "story",
+        "color": "pure",
+        "characters": [
+            1,
+            6,
+            10,
+            11,
+            17
+        ]
+    },
+    {
+        "id": 6,
+        "eventType": "story",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 7,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            2,
+            5,
+            14,
+            18,
+            20
+        ]
+    },
+    {
+        "id": 8,
+        "eventType": "story",
+        "color": "powerful",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 9,
+        "eventType": "story",
+        "color": "pure",
+        "characters": [
+            3,
+            4,
+            9,
+            12,
+            24
+        ]
+    },
+    {
+        "id": 10,
+        "eventType": "story",
+        "color": "cool",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 11,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            14,
+            16,
+            17,
+            22,
+            23
+        ]
+    },
+    {
+        "id": 12,
+        "eventType": "story",
+        "color": "powerful",
+        "characters": [
+            4,
+            9,
+            10,
+            13,
+            24
+        ]
+    },
+    {
+        "id": 13,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 14,
+        "eventType": "story",
+        "color": "cool",
+        "characters": [
+            8,
+            16,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 15,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 16,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 17,
+        "eventType": "story",
+        "color": "pure",
+        "characters": [
+            10,
+            12,
+            18,
+            19,
+            23
+        ]
+    },
+    {
+        "id": 18,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 19,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 20,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            3,
+            8,
+            11,
+            15,
+            21
+        ]
+    },
+    {
+        "id": 21,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 22,
+        "eventType": "story",
+        "color": "cool",
+        "characters": [
+            2,
+            5,
+            13,
+            15,
+            16
+        ]
+    },
+    {
+        "id": 23,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            10,
+            17,
+            20,
+            22,
+            25
+        ]
+    },
+    {
+        "id": 24,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            1,
+            5,
+            8,
+            14,
+            20
+        ]
+    },
+    {
+        "id": 25,
+        "eventType": "story",
+        "color": "pure",
+        "characters": [
+            6,
+            7,
+            11,
+            21,
+            23
+        ]
+    },
+    {
+        "id": 26,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 27,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 28,
+        "eventType": "story",
+        "color": "powerful",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 29,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            9,
+            11,
+            19,
+            20,
+            25
+        ]
+    },
+    {
+        "id": 30,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 31,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 32,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            5,
+            7,
+            10,
+            21,
+            23
+        ]
+    },
+    {
+        "id": 33,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            13,
+            15,
+            17,
+            19,
+            24
+        ]
+    },
+    {
+        "id": 34,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 35,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            8,
+            9,
+            12,
+            13,
+            15
+        ]
+    },
+    {
+        "id": 36,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            1,
+            6,
+            11,
+            16,
+            21
+        ]
+    },
+    {
+        "id": 37,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 38,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            14,
+            15,
+            20,
+            22,
+            25
+        ]
+    },
+    {
+        "id": 39,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 40,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 41,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 42,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 43,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 44,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            1,
+            9,
+            11,
+            15,
+            22
+        ]
+    },
+    {
+        "id": 45,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            6,
+            12,
+            17,
+            19,
+            23
+        ]
+    },
+    {
+        "id": 46,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 47,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            1,
+            4,
+            5,
+            11,
+            13
+        ]
+    },
+    {
+        "id": 48,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 49,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 50,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            2,
+            5,
+            11,
+            13,
+            20
+        ]
+    },
+    {
+        "id": 51,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            6,
+            8,
+            9,
+            22,
+            24
+        ]
+    },
+    {
+        "id": 52,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 53,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 54,
+        "eventType": "story",
+        "color": "happy",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 55,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            12,
+            14,
+            15,
+            16,
+            18
+        ]
+    },
+    {
+        "id": 56,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 57,
+        "eventType": "story",
+        "color": "powerful",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 58,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            3,
+            5,
+            6,
+            8,
+            23
+        ]
+    },
+    {
+        "id": 59,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            12,
+            16,
+            19,
+            21,
+            25
+        ]
+    },
+    {
+        "id": 60,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 61,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 62,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 63,
+        "eventType": "challenge",
+        "color": "happy",
+        "characters": [
+            3,
+            8,
+            13,
+            18,
+            20
+        ]
+    },
+    {
+        "id": 64,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            10,
+            11,
+            17,
+            22,
+            23
+        ]
+    },
+    {
+        "id": 65,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            1,
+            2,
+            15,
+            16,
+            24
+        ]
+    },
+    {
+        "id": 66,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 67,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 68,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            4,
+            8,
+            14,
+            16,
+            25
+        ]
+    },
+    {
+        "id": 69,
+        "eventType": "challenge",
+        "color": "happy",
+        "characters": [
+            4,
+            9,
+            10,
+            13,
+            24
+        ]
+    },
+    {
+        "id": 70,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 71,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            2,
+            10,
+            11,
+            18,
+            24
+        ]
+    },
+    {
+        "id": 72,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 73,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            2,
+            7,
+            12,
+            17,
+            22
+        ]
+    },
+    {
+        "id": 74,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            6,
+            14,
+            16,
+            19,
+            23
+        ]
+    },
+    {
+        "id": 75,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 76,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            5,
+            14,
+            15,
+            22,
+            25
+        ]
+    },
+    {
+        "id": 77,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 78,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            9,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 79,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 80,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            1,
+            5,
+            6,
+            10,
+            20
+        ]
+    },
+    {
+        "id": 81,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 82,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            1,
+            3,
+            11,
+            15,
+            16
+        ]
+    },
+    {
+        "id": 83,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 84,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            1,
+            3,
+            10,
+            19,
+            21
+        ]
+    },
+    {
+        "id": 85,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 86,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 87,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            3,
+            4,
+            9,
+            12,
+            20
+        ]
+    },
+    {
+        "id": 88,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 89,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 90,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            8,
+            10,
+            12,
+            17,
+            19
+        ]
+    },
+    {
+        "id": 91,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            13,
+            14,
+            16,
+            18,
+            22
+        ]
+    },
+    {
+        "id": 92,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 93,
+        "eventType": "challenge",
+        "color": "happy",
+        "characters": [
+            2,
+            12,
+            15,
+            20,
+            23
+        ]
+    },
+    {
+        "id": 94,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 95,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            3,
+            6,
+            13,
+            21,
+            22
+        ]
+    },
+    {
+        "id": 96,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 97,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 98,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 99,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            2,
+            6,
+            8,
+            13,
+            20
+        ]
+    },
+    {
+        "id": 100,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            8,
+            12,
+            17,
+            18,
+            19
+        ]
+    },
+    {
+        "id": 101,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            5,
+            6,
+            14,
+            22,
+            24
+        ]
+    },
+    {
+        "id": 102,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 103,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            7,
+            11,
+            15,
+            17,
+            23
+        ]
+    },
+    {
+        "id": 104,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 105,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 106,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            5,
+            14,
+            15,
+            18,
+            25
+        ]
+    },
+    {
+        "id": 107,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 108,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            4,
+            7,
+            16,
+            18,
+            21
+        ]
+    },
+    {
+        "id": 109,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            3,
+            8,
+            13,
+            18,
+            23
+        ]
+    },
+    {
+        "id": 110,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 111,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 112,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 113,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            1,
+            6,
+            11,
+            16,
+            21
+        ]
+    },
+    {
+        "id": 114,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            5,
+            13,
+            17,
+            23,
+            28
+        ]
+    },
+    {
+        "id": 115,
+        "eventType": "challenge",
+        "color": "happy",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 116,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 117,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 118,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            4,
+            8,
+            14,
+            18,
+            20
+        ]
+    },
+    {
+        "id": 119,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 120,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 121,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 122,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 123,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            2,
+            12,
+            15,
+            22,
+            27
+        ]
+    },
+    {
+        "id": 124,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            1,
+            2,
+            17,
+            19,
+            23
+        ]
+    },
+    {
+        "id": 125,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 126,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 127,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 128,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            1,
+            7,
+            24,
+            32,
+            33
+        ]
+    },
+    {
+        "id": 129,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 130,
+        "eventType": "challenge",
+        "color": "happy",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 131,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 132,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 133,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 134,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            9,
+            17,
+            22,
+            23,
+            25
+        ]
+    },
+    {
+        "id": 135,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 136,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 137,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            5,
+            12,
+            21,
+            26,
+            31
+        ]
+    },
+    {
+        "id": 138,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            3,
+            6,
+            18,
+            20,
+            27
+        ]
+    },
+    {
+        "id": 139,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 140,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 141,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 142,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 143,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            17,
+            19,
+            20,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 144,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            2,
+            8,
+            10,
+            13,
+            15
+        ]
+    },
+    {
+        "id": 145,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            4,
+            9,
+            14,
+            19,
+            24,
+            29,
+            33
+        ]
+    },
+    {
+        "id": 146,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 147,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 148,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 149,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 150,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            24,
+            26,
+            30,
+            32,
+            35
+        ]
+    },
+    {
+        "id": 151,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 152,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 153,
+        "eventType": "challenge",
+        "color": "happy",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 154,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 155,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            3,
+            4,
+            7,
+            11,
+            22
+        ]
+    },
+    {
+        "id": 156,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 157,
+        "eventType": "festival",
+        "color": "powerful",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 158,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 159,
+        "eventType": "challenge",
+        "color": "happy",
+        "characters": [
+            7,
+            10,
+            18,
+            20,
+            29
+        ]
+    },
+    {
+        "id": 160,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 161,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 162,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            12,
+            17,
+            19,
+            24,
+            32
+        ]
+    },
+    {
+        "id": 163,
+        "eventType": "festival",
+        "color": "happy",
+        "characters": [
+            7,
+            16,
+            19,
+            23,
+            35
+        ]
+    },
+    {
+        "id": 164,
+        "eventType": "medley",
+        "color": "cool",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 165,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 166,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            2,
+            5,
+            23,
+            31,
+            35
+        ]
+    },
+    {
+        "id": 167,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 168,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 169,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 170,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 171,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            4,
+            5,
+            9,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 172,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 173,
+        "eventType": "medley",
+        "color": "powerful",
+        "characters": [
+            1,
+            6,
+            8,
+            18,
+            26
+        ]
+    },
+    {
+        "id": 174,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            13,
+            17,
+            20,
+            22,
+            29
+        ]
+    },
+    {
+        "id": 175,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 176,
+        "eventType": "festival",
+        "color": "cool",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 177,
+        "eventType": "medley",
+        "color": "pure",
+        "characters": [
+            1,
+            7,
+            10,
+            15,
+            22
+        ]
+    },
+    {
+        "id": 178,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 179,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            9,
+            12,
+            30,
+            31,
+            33
+        ]
+    },
+    {
+        "id": 180,
+        "eventType": "medley",
+        "color": "pure",
+        "characters": [
+            5,
+            10,
+            15,
+            20,
+            25,
+            30,
+            34
+        ]
+    },
+    {
+        "id": 181,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            27,
+            28,
+            32,
+            35
+        ]
+    },
+    {
+        "id": 182,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 183,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 184,
+        "eventType": "festival",
+        "color": "cool",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 185,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            14,
+            16,
+            18,
+            22,
+            25
+        ]
+    },
+    {
+        "id": 186,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 187,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 188,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 189,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 190,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            25,
+            28,
+            30
+        ]
+    },
+    {
+        "id": 191,
+        "eventType": "medley",
+        "color": "powerful",
+        "characters": [
+            6,
+            8,
+            21,
+            23,
+            24
+        ]
+    },
+    {
+        "id": 192,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 193,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 194,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 195,
+        "eventType": "festival",
+        "color": "pure",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 196,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            12,
+            14,
+            20
+        ]
+    },
+    {
+        "id": 197,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 198,
+        "eventType": "medley",
+        "color": "cool",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 199,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            18,
+            19,
+            31,
+            33,
+            34
+        ]
+    },
+    {
+        "id": 200,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 201,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 202,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            12,
+            17,
+            19,
+            21,
+            23
+        ]
+    },
+    {
+        "id": 203,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 204,
+        "eventType": "medley",
+        "color": "powerful",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 205,
+        "eventType": "festival",
+        "color": "cool",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 206,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            3,
+            8,
+            12,
+            18,
+            19
+        ]
+    },
+    {
+        "id": 207,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 208,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 209,
+        "eventType": "medley",
+        "color": "pure",
+        "characters": [
+            2,
+            13,
+            20,
+            24,
+            32
+        ]
+    },
+    {
+        "id": 210,
+        "eventType": "festival",
+        "color": "happy",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 211,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 212,
+        "eventType": "versus",
+        "color": "pure",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 213,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            1,
+            5,
+            11,
+            15,
+            25
+        ]
+    },
+    {
+        "id": 214,
+        "eventType": "medley",
+        "color": "powerful",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 215,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            14,
+            16,
+            18,
+            22,
+            23
+        ]
+    },
+    {
+        "id": 216,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            12,
+            17,
+            19,
+            21,
+            25
+        ]
+    },
+    {
+        "id": 217,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            1,
+            6,
+            11,
+            16,
+            21,
+            26,
+            31
+        ]
+    },
+    {
+        "id": 218,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 219,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 220,
+        "eventType": "medley",
+        "color": "pure",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 221,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 222,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 223,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 224,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            5,
+            17,
+            25,
+            28,
+            34
+        ]
+    },
+    {
+        "id": 225,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 226,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            12,
+            14,
+            18,
+            19,
+            22
+        ]
+    },
+    {
+        "id": 227,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            3,
+            6,
+            22,
+            27,
+            30
+        ]
+    },
+    {
+        "id": 228,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            1,
+            4,
+            5,
+            11,
+            20
+        ]
+    },
+    {
+        "id": 229,
+        "eventType": "medley",
+        "color": "pure",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 230,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 231,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 232,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 233,
+        "eventType": "medley",
+        "color": "powerful",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 234,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 235,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            36,
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "id": 236,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            4,
+            8,
+            9,
+            24,
+            33
+        ]
+    },
+    {
+        "id": 237,
+        "eventType": "festival",
+        "color": "pure",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 238,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            5,
+            7,
+            10,
+            15,
+            32
+        ]
+    },
+    {
+        "id": 239,
+        "eventType": "medley",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 240,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            36,
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "id": 241,
+        "eventType": "mission_live",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 242,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 243,
+        "eventType": "festival",
+        "color": "pure",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 244,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 245,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            3,
+            7,
+            23,
+            27,
+            35
+        ]
+    },
+    {
+        "id": 246,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 247,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 248,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            5,
+            14,
+            16,
+            25,
+            32
+        ]
+    },
+    {
+        "id": 249,
+        "eventType": "medley",
+        "color": "pure",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 250,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            36,
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "id": 251,
+        "eventType": "versus",
+        "color": "happy",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 252,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 253,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            2,
+            7,
+            12,
+            17,
+            22,
+            27,
+            32,
+            37
+        ]
+    },
+    {
+        "id": 254,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 255,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 256,
+        "eventType": "festival",
+        "color": "powerful",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 257,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 258,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 259,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 260,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            12,
+            13,
+            26,
+            28,
+            31
+        ]
+    },
+    {
+        "id": 261,
+        "eventType": "festival",
+        "color": "pure",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 262,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            5,
+            9,
+            13,
+            21,
+            33
+        ]
+    },
+    {
+        "id": 263,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            2,
+            10,
+            14,
+            20,
+            29
+        ]
+    },
+    {
+        "id": 264,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 265,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 266,
+        "eventType": "challenge",
+        "color": "happy",
+        "characters": [
+            7,
+            11,
+            22,
+            26,
+            27
+        ]
+    },
+    {
+        "id": 267,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 268,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 269,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 270,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 271,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            1,
+            2,
+            7,
+            10,
+            26
+        ]
+    },
+    {
+        "id": 272,
+        "eventType": "medley",
+        "color": "powerful",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 273,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 274,
+        "eventType": "live_try",
+        "color": "powerful",
+        "characters": [
+            3,
+            8,
+            16,
+            19,
+            33
+        ]
+    },
+    {
+        "id": 275,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 276,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 277,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            6,
+            10,
+            29,
+            37,
+            40
+        ]
+    },
+    {
+        "id": 278,
+        "eventType": "versus",
+        "color": "powerful",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 279,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 280,
+        "eventType": "live_try",
+        "color": "happy",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 281,
+        "eventType": "challenge",
+        "color": "powerful",
+        "characters": [
+            1,
+            4,
+            9,
+            13,
+            25
+        ]
+    },
+    {
+        "id": 282,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 283,
+        "eventType": "mission_live",
+        "color": "pure",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 284,
+        "eventType": "challenge",
+        "color": "happy",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 285,
+        "eventType": "live_try",
+        "color": "cool",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    },
+    {
+        "id": 286,
+        "eventType": "mission_live",
+        "color": "happy",
+        "characters": [
+            36,
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    {
+        "id": 287,
+        "eventType": "medley",
+        "color": "cool",
+        "characters": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "id": 288,
+        "eventType": "festival",
+        "color": "powerful",
+        "characters": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    },
+    {
+        "id": 289,
+        "eventType": "challenge",
+        "color": "pure",
+        "characters": [
+            3,
+            8,
+            13,
+            18,
+            23,
+            28,
+            35,
+            36,
+            39
+        ]
+    },
+    {
+        "id": 290,
+        "eventType": "versus",
+        "color": "cool",
+        "characters": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "id": 291,
+        "eventType": "mission_live",
+        "color": "powerful",
+        "characters": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ]
+    },
+    {
+        "id": 292,
+        "eventType": "live_try",
+        "color": "pure",
+        "characters": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 293,
+        "eventType": "challenge",
+        "color": "cool",
+        "characters": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ]
+    },
+    {
+        "id": 294,
+        "eventType": "medley",
+        "color": "happy",
+        "characters": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ]
+    }
+]
